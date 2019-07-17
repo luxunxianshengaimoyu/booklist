@@ -31,3 +31,5 @@
 [乌合之众](https://book.douban.com/subject/1012611/) | 勒庞 
 [天才在左 疯子在右](https://book.douban.com/subject/26666472/) | 高铭  
 [助推](https://book.douban.com/subject/30128227/) | 理查德·塞勒/卡斯·桑斯坦  
+[富爸爸穷爸爸](https://book.douban.com/subject/3291111/) | 罗伯特·T·清崎  
+[边城](https://book.douban.com/subject/1057244/) | 沈从文
